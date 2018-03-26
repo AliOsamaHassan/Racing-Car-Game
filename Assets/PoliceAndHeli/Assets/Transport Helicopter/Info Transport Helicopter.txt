@@ -1,0 +1,22 @@
+Transport Helicopter
+ info:
+
+924 Polys,
+
+Split Animation for Rotors turning 1-24.
+
+3 X Textures 1K.TIF:
+
+1 X Texture map
+
+1 X Specular
+
+1 X Texture + Specular Alpha for Unity.
+
+Any questions or anything else you would like drop me an email.
+
+duane_mayberry@yahoo.co.uk
+
+www.duanesmind.co.uk
+
+Enjoy!
