@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 868a432350dfcc542aa0742a53e23ca0
+timeCreated: 1519859998
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: LeftWheel1
+    100002: Main
+    100004: RightWheel1
+    100006: smalltire
+    100008: smalltire.00
+    100010: smalltire.00.000
+    100012: smalltire.00.001
+    100014: smalltire.00.002
+    100016: smalltire.00.003
+    100018: smalltire.00.004
+    100020: smalltire.00.005
+    100022: smalltire.00.006
+    100024: smalltire.00.007
+    100026: smalltire.01
+    100028: smalltire.01.000
+    100030: Suspension
+    100032: Suspension2
+    100034: Tire1
+    100036: Tire1.001
+    100038: Tire1.002
+    100040: Tire1.003
+    100042: Tracks
+    100044: Tracks.001
+    100046: //RootNode
+    400000: LeftWheel1
+    400002: Main
+    400004: RightWheel1
+    400006: smalltire
+    400008: smalltire.00
+    400010: smalltire.00.000
+    400012: smalltire.00.001
+    400014: smalltire.00.002
+    400016: smalltire.00.003
+    400018: smalltire.00.004
+    400020: smalltire.00.005
+    400022: smalltire.00.006
+    400024: smalltire.00.007
+    400026: smalltire.01
+    400028: smalltire.01.000
+    400030: Suspension
+    400032: Suspension2
+    400034: Tire1
+    400036: Tire1.001
+    400038: Tire1.002
+    400040: Tire1.003
+    400042: Tracks
+    400044: Tracks.001
+    400046: //RootNode
+    2100000: sci fi 9
+    2100002: METAL2
+    2100004: sci fi 26
+    2100006: Redsteel2
+    2100008: sci fi 18
+    2100010: sci fi 32
+    2100012: sci fi 33
+    2300000: LeftWheel1
+    2300002: Main
+    2300004: RightWheel1
+    2300006: smalltire
+    2300008: smalltire.00
+    2300010: smalltire.00.000
+    2300012: smalltire.00.001
+    2300014: smalltire.00.002
+    2300016: smalltire.00.003
+    2300018: smalltire.00.004
+    2300020: smalltire.00.005
+    2300022: smalltire.00.006
+    2300024: smalltire.00.007
+    2300026: smalltire.01
+    2300028: smalltire.01.000
+    2300030: Suspension
+    2300032: Suspension2
+    2300034: Tire1
+    2300036: Tire1.001
+    2300038: Tire1.002
+    2300040: Tire1.003
+    2300042: Tracks
+    2300044: Tracks.001
+    3300000: LeftWheel1
+    3300002: Main
+    3300004: RightWheel1
+    3300006: smalltire
+    3300008: smalltire.00
+    3300010: smalltire.00.000
+    3300012: smalltire.00.001
+    3300014: smalltire.00.002
+    3300016: smalltire.00.003
+    3300018: smalltire.00.004
+    3300020: smalltire.00.005
+    3300022: smalltire.00.006
+    3300024: smalltire.00.007
+    3300026: smalltire.01
+    3300028: smalltire.01.000
+    3300030: Suspension
+    3300032: Suspension2
+    3300034: Tire1
+    3300036: Tire1.001
+    3300038: Tire1.002
+    3300040: Tire1.003
+    3300042: Tracks
+    3300044: Tracks.001
+    4300000: Main
+    4300002: LeftWheel1
+    4300004: RightWheel1
+    4300006: smalltire
+    4300008: smalltire.00
+    4300010: smalltire.00.000
+    4300012: smalltire.00.001
+    4300014: smalltire.00.002
+    4300016: smalltire.00.003
+    4300018: smalltire.00.004
+    4300020: smalltire.00.005
+    4300022: smalltire.00.006
+    4300024: smalltire.00.007
+    4300026: smalltire.01
+    4300028: smalltire.01.000
+    4300030: Suspension
+    4300032: Suspension2
+    4300034: Tire1
+    4300036: Tire1.001
+    4300038: Tire1.002
+    4300040: Tire1.003
+    4300042: Tracks
+    4300044: Tracks.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
