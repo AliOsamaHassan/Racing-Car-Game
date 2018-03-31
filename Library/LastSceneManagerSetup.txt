@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/RaceArea01.unity
+  isLoaded: 1
+  isActive: 1
