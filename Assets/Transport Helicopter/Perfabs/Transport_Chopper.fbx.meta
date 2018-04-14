@@ -12,10 +12,29 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: Back_Rotor
+    100002: Front_Rotor
+    100004: //RootNode
+    400000: Back_Rotor
+    400002: Front_Rotor
+    400004: //RootNode
+    2300000: Back_Rotor
+    2300002: Front_Rotor
+    2300004: //RootNode
+    3300000: Back_Rotor
+    3300002: Front_Rotor
+    3300004: //RootNode
     4300000: Body
     4300002: Front_Rotor
     4300004: Back_Rotor
-  externalObjects: {}
+    7400000: Fly
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helicopter_Material
+    second: {fileID: 2100000, guid: 7e4a4ebc64a26f649b7d893da3e9d915, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
