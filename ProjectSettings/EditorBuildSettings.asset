@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/start.unity
+    guid: 170aeb576da472f4c9abdfcdc046b9f4
+  - enabled: 1
+    path: Assets/RaceArea01.unity
+    guid: 1cc917f4762338149a9ba8876b56b7ec
+  - enabled: 1
+    path: Assets/city.unity
+    guid: 6ebc70b5fc3bd1743a80a010b542609f
+  - enabled: 1
+    path: Assets/race_track_lake.unity
+    guid: 2e1336748f3797f4798cf9e588e2620f
