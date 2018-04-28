@@ -14,6 +14,8 @@ public class Countdown : MonoBehaviour
     public GameObject LapTimer;
     public GameObject CarControls;
 
+    // trun on sound sabek and la7ek in the start of the gaem
+    public AudioSource LevelMusic;
     void Start()
     {
         StartCoroutine(CountStart());
@@ -35,6 +37,7 @@ public class Countdown : MonoBehaviour
         CountDown.SetActive(false);
         CountDown.GetComponent<Text>().text = "1";
         GetReady.Play();
+        LevelMusic.Play();
         CountDown.SetActive(true);
         yield return new WaitForSeconds(1);
         CountDown.SetActive(false);
