@@ -11,9 +11,7 @@ public class DreamCar01Track : MonoBehaviour {
     public GameObject Mark04;
     public GameObject Mark05;
     public GameObject Mark06;
-    
     public GameObject Mark07;
-    
     public GameObject Mark08;
     public GameObject Mark09;
     public GameObject Mark10;
