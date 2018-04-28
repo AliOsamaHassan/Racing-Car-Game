@@ -12,8 +12,10 @@ public class Countdown : MonoBehaviour
     public AudioSource GetReady;
     public AudioSource GoAudio;
     public GameObject LapTimer;
-    public GameObject CarControls;
+   // public GameObject CarControls;
 
+    // trun on sound sabek and la7ek in the start of the gaem
+    public AudioSource LevelMusic;
     void Start()
     {
         StartCoroutine(CountStart());
@@ -22,29 +24,27 @@ public class Countdown : MonoBehaviour
 
     IEnumerator CountStart()
     {
-        yield return new WaitForSeconds(0.5f);
+        //yield return new WaitForSeconds(0.5f);
         CountDown.GetComponent<Text>().text = "3";
         GetReady.Play();
         CountDown.SetActive(true);
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0.5f);
         CountDown.SetActive(false);
+
         CountDown.GetComponent<Text>().text = "2";
         GetReady.Play();
         CountDown.SetActive(true);
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0.5f);
         CountDown.SetActive(false);
         CountDown.GetComponent<Text>().text = "1";
         GetReady.Play();
         CountDown.SetActive(true);
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0.2f);
         CountDown.SetActive(false);
         GoAudio.Play();
+        LevelMusic.Play();
         LapTimer.SetActive(true);
-        //CarControls.SetActive(true);
 
     }
 
-
 }
-
-
