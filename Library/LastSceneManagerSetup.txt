@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RaceArea01.unity
+- path: Assets/MainMenu.unity
   isLoaded: 1
   isActive: 1
